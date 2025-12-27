@@ -1,2 +1,1 @@
-hi, world
-hi, man
+hi, jivi
